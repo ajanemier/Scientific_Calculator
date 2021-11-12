@@ -1,0 +1,16 @@
+C:\Users\63976\OOP\Scientific_Calculator\Scientific_Calculator\bin\Debug\netcoreapp3.1\Scientific_Calculator.exe
+C:\Users\63976\OOP\Scientific_Calculator\Scientific_Calculator\bin\Debug\netcoreapp3.1\Scientific_Calculator.deps.json
+C:\Users\63976\OOP\Scientific_Calculator\Scientific_Calculator\bin\Debug\netcoreapp3.1\Scientific_Calculator.runtimeconfig.json
+C:\Users\63976\OOP\Scientific_Calculator\Scientific_Calculator\bin\Debug\netcoreapp3.1\Scientific_Calculator.runtimeconfig.dev.json
+C:\Users\63976\OOP\Scientific_Calculator\Scientific_Calculator\bin\Debug\netcoreapp3.1\Scientific_Calculator.dll
+C:\Users\63976\OOP\Scientific_Calculator\Scientific_Calculator\bin\Debug\netcoreapp3.1\Scientific_Calculator.pdb
+C:\Users\63976\OOP\Scientific_Calculator\Scientific_Calculator\obj\Debug\netcoreapp3.1\Scientific_Calculator.csproj.AssemblyReference.cache
+C:\Users\63976\OOP\Scientific_Calculator\Scientific_Calculator\obj\Debug\netcoreapp3.1\Scientific_Calculator.csproj.GenerateResource.cache
+C:\Users\63976\OOP\Scientific_Calculator\Scientific_Calculator\obj\Debug\netcoreapp3.1\Scientific_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\63976\OOP\Scientific_Calculator\Scientific_Calculator\obj\Debug\netcoreapp3.1\Scientific_Calculator.AssemblyInfoInputs.cache
+C:\Users\63976\OOP\Scientific_Calculator\Scientific_Calculator\obj\Debug\netcoreapp3.1\Scientific_Calculator.AssemblyInfo.cs
+C:\Users\63976\OOP\Scientific_Calculator\Scientific_Calculator\obj\Debug\netcoreapp3.1\Scientific_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\63976\OOP\Scientific_Calculator\Scientific_Calculator\obj\Debug\netcoreapp3.1\Scientific_Calculator.dll
+C:\Users\63976\OOP\Scientific_Calculator\Scientific_Calculator\obj\Debug\netcoreapp3.1\Scientific_Calculator.pdb
+C:\Users\63976\OOP\Scientific_Calculator\Scientific_Calculator\obj\Debug\netcoreapp3.1\Scientific_Calculator.genruntimeconfig.cache
+C:\Users\63976\OOP\Scientific_Calculator\Scientific_Calculator\obj\Debug\netcoreapp3.1\Scientific_Calculator.Calculator.resources
