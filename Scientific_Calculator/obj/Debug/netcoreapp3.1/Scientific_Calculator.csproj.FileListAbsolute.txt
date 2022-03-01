@@ -14,3 +14,4 @@ C:\Users\63976\OOP\Scientific_Calculator\Scientific_Calculator\obj\Debug\netcore
 C:\Users\63976\OOP\Scientific_Calculator\Scientific_Calculator\obj\Debug\netcoreapp3.1\Scientific_Calculator.pdb
 C:\Users\63976\OOP\Scientific_Calculator\Scientific_Calculator\obj\Debug\netcoreapp3.1\Scientific_Calculator.genruntimeconfig.cache
 C:\Users\63976\OOP\Scientific_Calculator\Scientific_Calculator\obj\Debug\netcoreapp3.1\Scientific_Calculator.Calculator.resources
+C:\Users\63976\OOP\Scientific_Calculator\Scientific_Calculator\obj\Debug\netcoreapp3.1\Scientific_Calculator.Properties.Resources.resources
